@@ -1,0 +1,6 @@
+androfinder is an remote controller for android devices this is .1 version of it
+in this version you can install it in your device and if your device will be lost
+you can send an sms with any number with location: keyword content to
+youd phone then your lost phone can find its location and replay to u an sms with
+latitude and longitude content.
+that you can find your device.
